@@ -3,6 +3,8 @@
 target/
 .mvn/wrapper/maven-wrapper.jar
 
+notes.txt
+
 # Allow build folders in source/test directories (Maven structure)
 !**/src/main/**/target/
 !**/src/test/**/target/
